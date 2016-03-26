@@ -16,6 +16,19 @@
 		7092C0BC1CA750E0004DFA94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7092C0BA1CA750E0004DFA94 /* LaunchScreen.storyboard */; };
 		7092C0C71CA750E0004DFA94 /* FireFly_StartTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7092C0C61CA750E0004DFA94 /* FireFly_StartTests.swift */; };
 		7092C0D21CA750E0004DFA94 /* FireFly_StartUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7092C0D11CA750E0004DFA94 /* FireFly_StartUITests.swift */; };
+		7092C0E01CA75133004DFA94 /* MenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7092C0DF1CA75133004DFA94 /* MenuScene.swift */; };
+		7092C0E41CA7519F004DFA94 /* CarCrash.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7092C0E21CA7519F004DFA94 /* CarCrash.wav */; };
+		7092C0E51CA7519F004DFA94 /* forest.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7092C0E31CA7519F004DFA94 /* forest.wav */; };
+		7092C0F11CA751CA004DFA94 /* Bee.png in Resources */ = {isa = PBXBuildFile; fileRef = 7092C0E71CA751CA004DFA94 /* Bee.png */; };
+		7092C0F21CA751CA004DFA94 /* car.png in Resources */ = {isa = PBXBuildFile; fileRef = 7092C0E81CA751CA004DFA94 /* car.png */; };
+		7092C0F31CA751CA004DFA94 /* firefly.png in Resources */ = {isa = PBXBuildFile; fileRef = 7092C0E91CA751CA004DFA94 /* firefly.png */; };
+		7092C0F41CA751CA004DFA94 /* grass.png in Resources */ = {isa = PBXBuildFile; fileRef = 7092C0EA1CA751CA004DFA94 /* grass.png */; };
+		7092C0F51CA751CA004DFA94 /* kid1 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 7092C0EB1CA751CA004DFA94 /* kid1 copy.png */; };
+		7092C0F61CA751CA004DFA94 /* kid2 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 7092C0EC1CA751CA004DFA94 /* kid2 copy.png */; };
+		7092C0F71CA751CA004DFA94 /* kid3 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 7092C0ED1CA751CA004DFA94 /* kid3 copy.png */; };
+		7092C0F81CA751CA004DFA94 /* kid4 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 7092C0EE1CA751CA004DFA94 /* kid4 copy.png */; };
+		7092C0F91CA751CA004DFA94 /* road.png in Resources */ = {isa = PBXBuildFile; fileRef = 7092C0EF1CA751CA004DFA94 /* road.png */; };
+		7092C0FA1CA751CA004DFA94 /* tree1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7092C0F01CA751CA004DFA94 /* tree1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +64,19 @@
 		7092C0CD1CA750E0004DFA94 /* FireFly-StartUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "FireFly-StartUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7092C0D11CA750E0004DFA94 /* FireFly_StartUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FireFly_StartUITests.swift; sourceTree = "<group>"; };
 		7092C0D31CA750E0004DFA94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7092C0DF1CA75133004DFA94 /* MenuScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuScene.swift; sourceTree = "<group>"; };
+		7092C0E21CA7519F004DFA94 /* CarCrash.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = CarCrash.wav; sourceTree = "<group>"; };
+		7092C0E31CA7519F004DFA94 /* forest.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = forest.wav; sourceTree = "<group>"; };
+		7092C0E71CA751CA004DFA94 /* Bee.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bee.png; sourceTree = "<group>"; };
+		7092C0E81CA751CA004DFA94 /* car.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = car.png; sourceTree = "<group>"; };
+		7092C0E91CA751CA004DFA94 /* firefly.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = firefly.png; sourceTree = "<group>"; };
+		7092C0EA1CA751CA004DFA94 /* grass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grass.png; sourceTree = "<group>"; };
+		7092C0EB1CA751CA004DFA94 /* kid1 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kid1 copy.png"; sourceTree = "<group>"; };
+		7092C0EC1CA751CA004DFA94 /* kid2 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kid2 copy.png"; sourceTree = "<group>"; };
+		7092C0ED1CA751CA004DFA94 /* kid3 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kid3 copy.png"; sourceTree = "<group>"; };
+		7092C0EE1CA751CA004DFA94 /* kid4 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kid4 copy.png"; sourceTree = "<group>"; };
+		7092C0EF1CA751CA004DFA94 /* road.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = road.png; sourceTree = "<group>"; };
+		7092C0F01CA751CA004DFA94 /* tree1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tree1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +127,13 @@
 		7092C0AC1CA750E0004DFA94 /* FireFly-Start */ = {
 			isa = PBXGroup;
 			children = (
+				7092C0E61CA751A7004DFA94 /* ART */,
+				7092C0E11CA7518C004DFA94 /* Sounds */,
 				7092C0AD1CA750E0004DFA94 /* AppDelegate.swift */,
 				7092C0AF1CA750E0004DFA94 /* GameScene.sks */,
 				7092C0B11CA750E0004DFA94 /* GameScene.swift */,
 				7092C0B31CA750E0004DFA94 /* GameViewController.swift */,
+				7092C0DF1CA75133004DFA94 /* MenuScene.swift */,
 				7092C0B51CA750E0004DFA94 /* Main.storyboard */,
 				7092C0B81CA750E0004DFA94 /* Assets.xcassets */,
 				7092C0BA1CA750E0004DFA94 /* LaunchScreen.storyboard */,
@@ -129,6 +158,32 @@
 				7092C0D31CA750E0004DFA94 /* Info.plist */,
 			);
 			path = "FireFly-StartUITests";
+			sourceTree = "<group>";
+		};
+		7092C0E11CA7518C004DFA94 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				7092C0E21CA7519F004DFA94 /* CarCrash.wav */,
+				7092C0E31CA7519F004DFA94 /* forest.wav */,
+			);
+			name = Sounds;
+			sourceTree = "<group>";
+		};
+		7092C0E61CA751A7004DFA94 /* ART */ = {
+			isa = PBXGroup;
+			children = (
+				7092C0E71CA751CA004DFA94 /* Bee.png */,
+				7092C0E81CA751CA004DFA94 /* car.png */,
+				7092C0E91CA751CA004DFA94 /* firefly.png */,
+				7092C0EA1CA751CA004DFA94 /* grass.png */,
+				7092C0EB1CA751CA004DFA94 /* kid1 copy.png */,
+				7092C0EC1CA751CA004DFA94 /* kid2 copy.png */,
+				7092C0ED1CA751CA004DFA94 /* kid3 copy.png */,
+				7092C0EE1CA751CA004DFA94 /* kid4 copy.png */,
+				7092C0EF1CA751CA004DFA94 /* road.png */,
+				7092C0F01CA751CA004DFA94 /* tree1.png */,
+			);
+			name = ART;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,10 +290,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7092C0F21CA751CA004DFA94 /* car.png in Resources */,
+				7092C0F31CA751CA004DFA94 /* firefly.png in Resources */,
+				7092C0F71CA751CA004DFA94 /* kid3 copy.png in Resources */,
+				7092C0F41CA751CA004DFA94 /* grass.png in Resources */,
 				7092C0B01CA750E0004DFA94 /* GameScene.sks in Resources */,
 				7092C0BC1CA750E0004DFA94 /* LaunchScreen.storyboard in Resources */,
 				7092C0B91CA750E0004DFA94 /* Assets.xcassets in Resources */,
+				7092C0F81CA751CA004DFA94 /* kid4 copy.png in Resources */,
+				7092C0F51CA751CA004DFA94 /* kid1 copy.png in Resources */,
+				7092C0E41CA7519F004DFA94 /* CarCrash.wav in Resources */,
 				7092C0B71CA750E0004DFA94 /* Main.storyboard in Resources */,
+				7092C0F91CA751CA004DFA94 /* road.png in Resources */,
+				7092C0F61CA751CA004DFA94 /* kid2 copy.png in Resources */,
+				7092C0FA1CA751CA004DFA94 /* tree1.png in Resources */,
+				7092C0E51CA7519F004DFA94 /* forest.wav in Resources */,
+				7092C0F11CA751CA004DFA94 /* Bee.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,6 +331,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7092C0B21CA750E0004DFA94 /* GameScene.swift in Sources */,
+				7092C0E01CA75133004DFA94 /* MenuScene.swift in Sources */,
 				7092C0B41CA750E0004DFA94 /* GameViewController.swift in Sources */,
 				7092C0AE1CA750E0004DFA94 /* AppDelegate.swift in Sources */,
 			);
