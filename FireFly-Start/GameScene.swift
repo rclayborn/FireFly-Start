@@ -104,7 +104,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         }
     }
     
-    // Updates the position of all zombies by moving towards the player
+    // Updates the position of all bees by moving towards the player
     func updateBee() {
         let targetPosition = player!.position
         
