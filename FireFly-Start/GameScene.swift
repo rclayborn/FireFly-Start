@@ -155,7 +155,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
     private func gameOver(didWin: Bool) {
         print("- - - Game Ended - - -")
         let menuScene = MenuScene(size: self.size)
-        //menuScene.soundToPlay = didWin ? "fear_win.mp3" : "fear_lose.mp3"
+        //menuScene.soundToPlay = didWin ? "win.mp3" : "lose.mp3"
         let transition = SKTransition.flipVerticalWithDuration(1.0)
         menuScene.scaleMode = SKSceneScaleMode.AspectFill
         self.scene!.view?.presentScene(menuScene, transition: transition)
